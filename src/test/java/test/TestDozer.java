@@ -41,7 +41,7 @@ public class TestDozer {
 	private void initPersonne(Personne personne) {
 
 		try {
-			// Init d'une personne et de ses enfants
+			// Init d'une personne et de ses enfants test
 			SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 			personne.setNom("Skywalker");
 			personne.setPrenom("Anakin");
